@@ -4,7 +4,7 @@ Machine learning project to predict whether a hotel booking will be canceled or 
 
 1-🚀 Setup
 Clone this repository:
-git clone https://github.com/YOUR_USERNAME/hotelProject.git
+git clone https://github.com/Seifmakled/hotelProject.git
 
 
 >2-Install required Python packages:
@@ -12,7 +12,7 @@ git clone https://github.com/YOUR_USERNAME/hotelProject.git
 
 
 3-Open the notebook:
-Open notebook/main.ipynb in VS Code with Jupyter extension
+Open notebook/main.ipynb in VS Code with >Jupyter extension
 Or run jupyter notebook and navigate to the notebook
 
 
